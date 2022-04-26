@@ -22,7 +22,7 @@ public class Actividad1 : MonoBehaviour
         //Actividad 2
         hipotenusa = Mathf.Sqrt((cateto1 * cateto1) + (cateto2 * cateto2));
         Debug.Log("la hipotenusa es "+hipotenusa);
-        //actividad 3
+        //actividad 3 aaa
 
 
     }
