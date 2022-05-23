@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a35484a90b11f54e827716b4a2cdd0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraTransform: {instanceID: 0}
+  - characterPrefab: {fileID: 4178114039235755776, guid: 8e1735fb116ca914cb528666211ddcd9, type: 3}
+  - cellPrefab: {fileID: 5568689454924738164, guid: d8ea060e7e8e51e41ba80fb4a4a5a7e3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
